@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aabff50-f74e-4eac-b1e5-bfbe998d40ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ai-ml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0aabff50-f74e-4eac-b1e5-bfbe998d40ab" name="Changes" comment="Initial commit: Linear Regression project">
+      <change beforePath="$PROJECT_DIR$/.idea/ai-ml.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vkarkhanis/ai-ml.git",
+    "accountId": "8887272b-9144-4e18-bee4-5c5228725e22"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -69,8 +75,41 @@
       <option name="presentableId" value="Default" />
       <updated>1756449131165</updated>
       <workItem from="1756449158867" duration="798000" />
-      <workItem from="1756449973949" duration="1696000" />
+      <workItem from="1756449973949" duration="2000000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit: Linear Regression project">
+      <option name="closed" value="true" />
+      <created>1756451722257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756451722257</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit: Linear Regression project">
+      <option name="closed" value="true" />
+      <created>1756451820330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756451820330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit: Linear Regression project">
+      <option name="closed" value="true" />
+      <created>1756451833785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756451833785</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit: Linear Regression project">
+      <option name="closed" value="true" />
+      <created>1756451862385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756451862385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit: Linear Regression project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: Linear Regression project" />
   </component>
 </project>
